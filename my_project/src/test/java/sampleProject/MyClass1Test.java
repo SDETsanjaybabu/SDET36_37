@@ -18,6 +18,6 @@ public void simple()
 	
 	System.out.println("Good bye");
 	
-	//hello everyone
+	System.out.println("Hi everyone");
 }
 }
