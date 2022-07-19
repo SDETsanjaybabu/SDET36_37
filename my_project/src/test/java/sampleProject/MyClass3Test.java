@@ -4,6 +4,7 @@ public class MyClass3Test {
 public void hi()
 {
 	System.out.println("done");
-	//Hi everyone
+	//Good evening
+	
 }
 }
