@@ -17,7 +17,6 @@ public void simple()
 	System.out.println("bye");
 	
 	System.out.println("Good bye");
-	
-	System.out.println("Hi everyone");
+
 }
 }
