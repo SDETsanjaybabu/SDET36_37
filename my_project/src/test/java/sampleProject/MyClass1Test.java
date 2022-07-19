@@ -20,7 +20,7 @@ public void simple()
 	
 	System.out.println("good");
 	
-	System.out.println("bye bye");
+	System.out.println("bye");
 
 }
 }
