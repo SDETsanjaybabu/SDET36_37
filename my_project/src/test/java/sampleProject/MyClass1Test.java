@@ -11,7 +11,10 @@ public void sample()
 @Test
 public void simple()
 {
-	//Good afternoon
+	String BROWSER=System.getProperty("browser");
+	String URL=System.getProperty("url");
+
+	
 	System.out.println("Hello all");
 	
 	System.out.println("bye");
