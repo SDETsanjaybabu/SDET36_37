@@ -12,5 +12,9 @@ public void sample()
 public void simple()
 {
 	System.out.println("Hello all");
+	
+	System.out.println("bye");
+	
+	System.out.println("Good bye");
 }
 }
