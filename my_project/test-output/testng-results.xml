@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-19T06:05:34Z" name="Default suite" finished-at="2022-07-19T06:05:34Z" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T06:05:34Z" name="Default test" finished-at="2022-07-19T06:05:34Z" duration-ms="49">
+      <class name="sampleProject.MyClass2">
+        <test-method signature="rmg()[pri:0, instance:sampleProject.MyClass2@babafc2]" started-at="2022-07-19T06:05:34Z" name="rmg" finished-at="2022-07-19T06:05:34Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rmg -->
+        <test-method signature="tyss()[pri:0, instance:sampleProject.MyClass2@babafc2]" started-at="2022-07-19T06:05:34Z" name="tyss" finished-at="2022-07-19T06:05:34Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tyss -->
+      </class> <!-- sampleProject.MyClass2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
