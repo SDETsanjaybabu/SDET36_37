@@ -11,6 +11,7 @@ public void sample()
 @Test
 public void simple()
 {
+	//Good afternoon
 	System.out.println("Hello all");
 	
 	System.out.println("bye");
