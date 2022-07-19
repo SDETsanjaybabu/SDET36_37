@@ -18,7 +18,10 @@ public void simple()
 	
 	System.out.println("Good bye");
 	
-	//good
+	System.out.println("good");
+	
+	System.out.println("bye");
+
 
 }
 }
