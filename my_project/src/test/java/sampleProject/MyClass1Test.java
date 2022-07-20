@@ -8,6 +8,7 @@ public void sample()
 {
 	System.out.println("hi all");
 	System.out.println("hello");
+	System.out.println("hi");
 }
 @Test
 public void simple()
@@ -22,7 +23,7 @@ public void simple()
 	System.out.println("good");
 	
 	System.out.println("bye");
-	
+	System.out.println("mouni");
 	//Good evening
 
 
