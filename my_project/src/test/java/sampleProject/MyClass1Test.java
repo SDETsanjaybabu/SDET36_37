@@ -14,13 +14,7 @@ public void sample()
 @Test
 public void simple()
 {
-	
-	String BROWSER=System.getProperty("browser");
-	String URL=System.getProperty("url");
 
-	System.out.println("browser---->"+BROWSER+"<-----url-->"+URL);
-//	WebDriver driver = WebDriverManager.chromedriver().create();
-//	driver.get(URL);
 	
 	System.out.println("Hello all");
 	
