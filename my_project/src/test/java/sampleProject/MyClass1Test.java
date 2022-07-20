@@ -15,6 +15,10 @@ public void sample()
 public void simple()
 {
 
+	String BROWSER = System.getProperty("browser");
+	String URL = System.getProperty("url");
+	
+	System.out.println("----->browser is"+BROWSER+"------>url is"+URL);
 	
 	System.out.println("Hello all");
 	
